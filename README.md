@@ -4,7 +4,7 @@ Este repositorio almacena todo el tema de avances e implementaciones hechas para
 
 ## Integrantes:
 
-- Miguel Gómez
+- [Miguel Gómez](https://github.com/Hitomiblood)
 - Nicolás Maldonado
 
 ## Asignatura
